@@ -11,6 +11,7 @@ https://youtu.be/xNX9H_ZkfNE?si=447XbiZNxImy7V0M
 ## Shaders Available
 - checkerboard
 - ball
+- whirl
 
 ## How to compile
 In the root ~/vanders directory
